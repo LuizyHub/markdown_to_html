@@ -1,0 +1,20 @@
+{
+  "name": "blogediter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.5.1"
+  },
+  "dependencies": {
+    "marked": "^7.0.4"
+  }
+}
